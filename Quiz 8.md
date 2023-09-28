@@ -22,9 +22,3 @@ Here's what I found to show the effect of the programming:
 
 [A link to an example code](https://p5js.org/zh-Hans/examples/3d-sine-cosine-in-3d.html)
 There may be better coding languages to perform this stereo imaging technique, I'll keep exploring!
-
-
-
-
-
-
