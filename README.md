@@ -18,9 +18,9 @@ The use of the Sine and Cosine functions in p5.js, along with the 3D drawing cap
 
 Here's what I found to show the effect of the programming:
 
-<div align="center">
-  ![Coding](readmeImages/coding%20image.png)
-</div>
+<p align="center"><img src="readmeImages/coding%20image.png" width="480"\>
+</p>
+
 
 [A link to an example code](https://p5js.org/zh-Hans/examples/3d-sine-cosine-in-3d.html)
 
