@@ -5,9 +5,12 @@
 The movie Avatar is a 3D movie that uses stereoscopic imaging technology that allows the audience to feel its depth and three-dimensionality and an immersive feeling when watching the movie. 
 The 3D technology in the movie gives a strong visual experience and an immersive viewing experience, demonstrating the impressive power of the imaging technology.
 
-![Avatar](readmeImages/Avatar.jpeg)
+<p align="center"><img src="readmeImages/Avatar.jpeg" width="480"\>
+</p>
 
-![Avatar2](readmeImages/Avatar2.jpeg)
+<p align="center"><img src="readmeImages/Avatar2.jpeg" width="480"\>
+</p>
+
 
 The pictures show the 3D effects of parts of the movie and were able to inspire me to make my task more appealing and present a realistic presentation.
 
@@ -18,7 +21,9 @@ The use of the Sine and Cosine functions in p5.js, along with the 3D drawing cap
 
 Here's what I found to show the effect of the programming:
 
-![Coding](readmeImages/coding%20image.png)
+<p align="center"><img src="readmeImages/coding%20image.png" width="480"\>
+</p>
+
 
 [A link to an example code](https://p5js.org/zh-Hans/examples/3d-sine-cosine-in-3d.html)
 
